@@ -1,0 +1,11 @@
+
+body{
+  
+  background-image: url(images/background.png);
+  /* background-color: #e9e89e; */
+  background-size: cover;
+  background-position: center;
+  /* color: #ffffff; */
+  height: 100vh;
+  
+}
